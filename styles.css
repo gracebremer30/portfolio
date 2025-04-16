@@ -1,0 +1,39 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1rem;
+    background-color: powderblue;
+}
+h1{
+    background-color: cornflowerblue;
+    color: #fff;
+    border-radius: 3rem;
+}
+header{background-color: powderblue;}
+header>img{
+    max-width: 8rem;
+    margin: 1rem;
+}
+.main{
+    background-color: powderblue;
+    padding: 3rem;
+    display: inline-block;
+    margin: .5rem;
+    vertical-align: top;
+    width: 25%;
+    word-wrap: normal;
+    text-align: center;
+}
+.linkedin{
+    background-color: #fff;
+    border-radius: 3rem;
+}
+.wordpress{
+    background-color: #fff;
+    border-radius: 3rem;
+}
+.email{
+    background-color: #fff;
+    border-radius: 3rem;
+}
+.info{
+    word-spacing: .20rem;}
