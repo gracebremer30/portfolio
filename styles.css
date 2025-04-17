@@ -19,7 +19,7 @@ header>img{
     display: inline-block;
     margin: .5rem;
     vertical-align: top;
-    width: 25%;
+    width: 22%;
     word-wrap: normal;
     text-align: center;
 }
@@ -29,7 +29,7 @@ header>img{
 }
 .wordpress{
     background-color: #fff;
-    border-radius: 3rem;
+    border-radius: 4rem;
 }
 .email{
     background-color: #fff;
